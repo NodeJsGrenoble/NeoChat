@@ -6,9 +6,11 @@ NeoChat
 *Node.js Workshop #Grenoble team*
 @evangenieur, @thierrylemoulec + 3
 
-## **June Project** : The "Hello World!" of [#Node.js][], a chat in All-In-One 35 lines file ! with [#CoffeeScript][] & [#ZappaJs][]
+## **June Project** : ZappaChat
 
-[ZappaChat.coffee](zappachat.coffee)
+The "Hello World!" of [Node.js][], a chat in 35 lines of [CoffeeScript][] (HTML included) ! with [ZappaJs][] & [CoffeeCup][]
+
+AllInOne File : [ [ZappaChat.coffee](zappachat.coffee) ]
 
 ### Run
 
@@ -18,6 +20,7 @@ NeoChat
 
 
 
-[#Node.js](http://nodejs.org/)
-[#CoffeeScript](http://coffeescript.org/)
-[#ZappaJS](http://zappajs.github.io/zappajs/)
+[Node.js]: (http://nodejs.org/
+[CoffeeScript]: http://coffeescript.org/
+[ZappaJS]: http://zappajs.github.io/zappajs/
+[CoffeeCup]: https://github.com/gradus/coffeecup
