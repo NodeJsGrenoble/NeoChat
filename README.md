@@ -10,7 +10,7 @@ NeoChat
 
 The "Hello World!" of [Node.js][], a chat in 35 lines of [CoffeeScript][] (HTML included) ! with [ZappaJs][] & [CoffeeCup][]
 
-AllInOne File : [ [ZappaChat.coffee](zappachat.coffee) ]
+** All-In-One File : [ [ZappaChat.coffee](zappachat.coffee) ] **
 
 ### Run
 
