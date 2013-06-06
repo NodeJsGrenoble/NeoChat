@@ -6,5 +6,18 @@ NeoChat
 *Node.js Workshop #Grenoble team*
 @evangenieur, @thierrylemoulec + 3
 
-- [ZappaChat.coffee](zappachat.coffee) - **Project** : The "Hello World!" of Node.js, a chat in 35 lines ! with #CoffeeScripti & #ZappaJs
+## **June Project** : The "Hello World!" of [#Node.js][], a chat in All-In-One 35 lines file ! with [#CoffeeScript][] & [#ZappaJs][]
 
+[ZappaChat.coffee](zappachat.coffee)
+
+### Run
+
+    npm install -g coffee-script node-dev
+    npm install colors zappajs
+    node-dev ./zappachat.coffee
+
+
+
+[#Node.js](http://nodejs.org/)
+[#CoffeeScript](http://coffeescript.org/)
+[#ZappaJS](http://zappajs.github.io/zappajs/)
