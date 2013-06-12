@@ -1,0 +1,11 @@
+{
+  "name": "NeoChat",
+  "version": "0.0.1",
+  "description": "Chat Experiments",
+  "dependencies": {
+    "zappajs": "~0.4.21"
+  },
+  "devDependencies": {
+    "colors": "~0.6.0-1"
+  }
+}
